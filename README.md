@@ -1,6 +1,6 @@
 - 👋 Olá! Sou a professora Alessandra
 - 👀 Gosto muito de aprender e trocar experiências com os colegas
-- 🌱 Atualmente trabalho no Colégio Estadual Rio Branco
+- 🌱 Atualmente trabalho no Colégio Estadual Rio Branco como professora dos Cursos Técnicos Informática e Formação de Docentes
 -
 
 <!---
